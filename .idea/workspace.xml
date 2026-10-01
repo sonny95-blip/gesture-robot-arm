@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f0e5bc8-8bff-4c00-b15d-7aa989b574ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RobotArm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand.py" afterDir="false" />
-    </list>
+    <list default="true" id="8f0e5bc8-8bff-4c00-b15d-7aa989b574ec" name="Changes" comment="hand" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sonny95-blip/gesture-robot-arm.git",
+    "accountId": "034adf09-0a78-4801-ab1b-cf866b2436cd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -61,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1790856705217</updated>
     </task>
+    <task id="LOCAL-00001" summary="hand">
+      <option name="closed" value="true" />
+      <created>1790861443389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790861443389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hand" />
+    <option name="LAST_COMMIT_MESSAGE" value="hand" />
   </component>
 </project>
