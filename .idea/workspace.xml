@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f0e5bc8-8bff-4c00-b15d-7aa989b574ec" name="Changes" comment="hand" />
+    <list default="true" id="8f0e5bc8-8bff-4c00-b15d-7aa989b574ec" name="Changes" comment="Add finger bend calculation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bend.py" beforeDir="false" afterPath="$PROJECT_DIR$/bend.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sonny95-blip/gesture-robot-arm.git",
-    "accountId": "034adf09-0a78-4801-ab1b-cf866b2436cd"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sonny95-blip"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sonny95-blip/gesture-robot-arm.git&quot;,
+    &quot;accountId&quot;: &quot;034adf09-0a78-4801-ab1b-cf866b2436cd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3K5oHqugFoBOqw0yWb3nD8LGbZq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bend.executor": "Run",
     "Python.hand.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -67,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1790861443389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add finger bend calculation">
+      <option name="closed" value="true" />
+      <created>1790863716376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790863716376</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hand" />
-    <option name="LAST_COMMIT_MESSAGE" value="hand" />
+    <MESSAGE value="Add finger bend calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add finger bend calculation" />
   </component>
 </project>
